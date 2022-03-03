@@ -1,0 +1,53 @@
+button
+{background-color: #eccf1f;}
+header
+{background-color: #cccccc;}
+body
+{margin-left:10%; margin-right: 10%;
+  font-family: -apple-system;
+}
+.cont1
+{margin-left: 40%}
+
+table
+{text-space: 100px}
+div
+{text-align: center}
+input
+{ margin-left: 3%;}
+.lilimg
+{text-align: left;
+}
+.ssaka
+{border-radius: 15%;
+  margin-left: 50%;
+}
+.greybox
+{width: 80%;
+  height: 7.5cm;
+  background-color: #ededed;
+  border-radius: 2%;
+  margin-left: 10%;
+}
+.hows
+{text-align: center;
+padding-top: 5%;
+}
+.input2
+{margin-right: 70%;
+margin-top: 2%;
+border-radius: 10%;
+  width: 15vw;
+height: 1.5vw}
+.input3size
+{height: 5vw;
+}
+.button2
+{margin-top: 2%;
+margin-right: 67%;
+  width: 15vw;
+  height: 1.5vw}
+.cont1
+{display: flex;
+align-content: flex-start;
+margin-left: 30%}
